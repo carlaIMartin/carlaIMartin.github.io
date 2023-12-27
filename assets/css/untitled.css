@@ -1,0 +1,45 @@
+#profile-pic {
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+
+#background-pic {
+  background: url("../../assets/img/peach-grid-bck.jpg");
+  object-fit: cover;
+}
+
+#mainNav {
+  background: rgb(132,114,114);
+  --bs-secondary: #3a2c50;
+  --bs-secondary-rgb: 58,44,80;
+}
+
+.portfolio-item-caption {
+  max-width: 120%;
+}
+
+.portfolio-item-caption {
+}
+
+.portfolio-item-caption {
+}
+
+.img-fluid {
+}
+
+#ansible-pic {
+  object-fit: cover;
+  height: 150px;
+}
+
+img {
+}
+
+#portfolio {
+}
+
+.btn-xl {
+}
+
